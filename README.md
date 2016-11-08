@@ -1,5 +1,7 @@
 ## Reproducible Research in Networking.
 
+Please before sending us your code fill the following [forms](https://docs.google.com/forms/d/1Zt5Wk94j6wBZRqU20gJKuqb8TN-V_Id2D7SnC3J_kFM/prefill)
+
 The architecture of each directory is/should be as follow:
 
 ```bash
