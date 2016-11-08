@@ -41,7 +41,7 @@ The **scripts** directory should contain:
 
 The **usage** directory should contain:
 > - readme.md file which will explain the content of the directory
-> - This directory should contains all the necessary scripts, compilation flags and direction to reproduce exactly the results decribe in the publication. 
+> - This directory should contains all the necessary scripts, compilation flags and directions to reproduce exactly the results described in the publication. 
 
 
 ## Side Notes
