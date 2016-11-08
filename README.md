@@ -1,6 +1,6 @@
 ## Reproducible Research in Networking.
 
-Please before sending us your code fill the following [forms](https://docs.google.com/forms/d/1Zt5Wk94j6wBZRqU20gJKuqb8TN-V_Id2D7SnC3J_kFM/prefill)
+Please fill the following [forms](https://docs.google.com/forms/d/1Zt5Wk94j6wBZRqU20gJKuqb8TN-V_Id2D7SnC3J_kFM/prefill). And create a strucutre as described below. You can either send us a archive of your contribution or give us a link to a repository that we can fork.
 
 The architecture of each directory is/should be as follow:
 
