@@ -1,8 +1,8 @@
 ## Reproducible Research in Networking.
 
-Please fill the following [forms](https://docs.google.com/forms/d/1Zt5Wk94j6wBZRqU20gJKuqb8TN-V_Id2D7SnC3J_kFM/prefill). And create a strucutre as described below. You can either send us a archive of your contribution or give us a link to a repository that we can fork.
+Please fill in the following [form](https://docs.google.com/forms/d/1Zt5Wk94j6wBZRqU20gJKuqb8TN-V_Id2D7SnC3J_kFM/prefill), and create a strucutre as described below. You can either send us an archive of your contribution or give us a link to a repository that we can fork.
 
-The architecture of each directory is/should be as follow:
+The architecture of each directory is/should be as follows:
 
 ```bash
 repository_name
@@ -30,20 +30,20 @@ The **readme.md** file  (preferably in markdown format) in the repository should
 > - TITLE OF THE PUBLICATION
 > - SYNOPSIS (what is the code doing in one paragraph)
 > - DESCRIPTION (detailled description of the code)
-> - INSTALLATION (should contains installation procedures, dependencies, ... anything needed to run the code, can be linked to scripts sub directory)
-> - USAGE and EXAMPLE (can be linke to the usage/script subdirectory)
-> - SRC (should link to the source code subdirectory)
+> - INSTALLATION (should contain installation procedures, dependencies, ... anything requied to run the code. It can be linked to scripts subdirectory)
+> - USAGE and EXAMPLE (can be linked to the usage and script subdirectories)
+> - SRC (should be linked to the source code subdirectory)
 
 The **scripts** directory should contain:
-> - readme.md file which will explain the content of the directory
-> - This directory should contains some scripts for example to easily install and setup the __simulations__ and to easily process the results. 
-> - It should provide for example a script to download and install a virtual machine containing all the necessary tools or to a docker image.
-> - It should also provide a script to post process the results and to generate the figures.
+> - readme.md file which explains the content of the directory
+> - for example, scripts to easily install and setup the __experimentations__
+> - for example, scripts to download and install a virtual machine containing all the necessary tools or a docker image
+> - scripts to post-process the results and to generate figures
 
 
 The **usage** directory should contain:
-> - readme.md file which will explain the content of the directory
-> - This directory should contains all the necessary scripts, compilation flags and directions to reproduce exactly the results described in the publication. 
+> - readme.md file which explains the content of the directory
+> - all the necessary scripts, compilation flags and directions to reproduce, with accuracy, the results described in the publication
 
 
 ## Side Notes
@@ -52,5 +52,5 @@ The code hosted in this repository is copyrighted by their respective authors.
 
 If you want to host your cade in this repository to promote Reproducible Research especially in Networking, please do not hesitate to drop us an email, open an issue or send us a pull request. 
 
-If you have any suggestion or want to be part of this action related to Reproducible Research do not hesitate to contact us. 
+If you have any suggestion or want to take part of this action related to Reproducible Research, do not hesitate to contact us. 
 
